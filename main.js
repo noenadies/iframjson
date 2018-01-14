@@ -17,7 +17,7 @@ function myFunction() {
                     data.inicio[i].web
                  
                   //  window.location =data.inicio[i].web; 
-                  alert(data.inicio[i].web);
+              //    alert(data.inicio[i].web);
 //window.location =data.inicio[i].web; 
                    document.getElementById("iframe").src =data.inicio[i].web ;
                   }
